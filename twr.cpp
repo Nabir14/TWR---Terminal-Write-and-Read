@@ -1,4 +1,4 @@
-// (TWR - Terminal Read and Write) Is Made By Nabir14
+// (TWR - Terminal Write and Read) Is Made By Nabir14
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
